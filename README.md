@@ -1,2 +1,1 @@
-# 数据中台
-数据标准
+# vite+vue3+element Plus模版项目
