@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://zhangqd123.github.io/vite-project",
   "scripts": {
     "prepare": "husky install",
     "dev": "vite",
@@ -19,6 +18,7 @@
     "nprogress": "^0.2.0",
     "pinia": "^2.2.2",
     "vue": "^3.5.3",
+    "vue-i18n": "10",
     "vue-router": "^4.4.3"
   },
   "devDependencies": {
